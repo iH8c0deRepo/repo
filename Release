@@ -1,0 +1,8 @@
+Origin: iH8c0de
+Label: iH8c0de
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iH8c0de test repo
